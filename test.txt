@@ -1,1 +1,2 @@
 toto je muj prvni commit
+commit v hlavni
