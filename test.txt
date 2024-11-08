@@ -1,1 +1,3 @@
 toto je muj prvni commit
+commit ve větvi branch2
+
